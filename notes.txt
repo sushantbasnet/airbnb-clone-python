@@ -4,7 +4,23 @@ pipenv shell - let us in the bubble'
 
 inside directory : 
 1) pipenv --three (create bubble)
-2) pipenv shell (go inside bubble)
+2) pipenv shell (go inside bubble)  (always required while working on Django)
 install django inside bubble
 
 (pipenv install Django==3.2)
+
+
+1) django-admin startproject config 
+2) rename main config to AConfig
+3) Drang inside config and mange.py to root
+4) then delete AConfig
+
+pipenv install flake8 --dev
+
+
+
+python manage.py runserver (RUN SERVER)
+
+
+
+1st day - upto 18th video
